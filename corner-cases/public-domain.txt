@@ -1,0 +1,11 @@
+This is not a real license, neither a copyright.
+
+"Public domain" is a specialized term in copyright law that alludes to works not under copyright,
+either in light of the fact that they were never in copyright in the first place (for instance, 
+works created by U.S. government representatives, on government time and as an aspect of their 
+responsibilities, are naturally in the public domain), or on the grounds that their copyright term
+has at long last passed and they have "fallen into" the public domain.
+
+To learn more:
+https://opensource.org/faq#public-domain
+https://en.wikipedia.org/wiki/Public_domain
